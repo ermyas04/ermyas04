@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ermyas04
 - 👀 I’m interested in software and application development
-- 🌱 I’m currently learning @ALX
+- 🌱 I’m currently learning Software Endineering program @ALX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: talk to me on telegram @ermaxak
 
